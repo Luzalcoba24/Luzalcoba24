@@ -6,11 +6,16 @@
 
 ## Sobre mí
 
-¡HOLAAA! Soy Luz, soy de Salta Capital, actualmente me encueuntro estudiando ingeniería en Software Comercial en JALA University, una universidad establecida en California-USA pero con sedes regionales en países de LATAM, esto con el fin de poder obtener un Bachelor Degree expedido por Estados Unidos, he sido seleccionada entre 400 personas de toda Argentina y estoy en la primera camada de argentinos beneficiarios de esta beca, en paralelo estoy llevando una tecnicatura de modalidad virtual tambien en Salta, la tecnicatura en Desarrollo de Software dictada en UPATECO una universidad provincial que busca dar una educacion teorica-practica para poder insertar en el mercado laboral a personas competentes con buenas herramientas de programacion. Tiempo antes de ingresar a esta carrera he estudiado en la Universidad Nacional de Salta, donde estudie los dos primeros años de la carrera de analisis de sistemas, en el ultimo año he realizado cursos y capacitaciones para poder ir entiendo el funcionamento del software, las buenas practicas, tambien he reforzado mis habilidades de comunicacion y el trabajo colaborativo.
-Todavia recuerdo mis primeros pasos en la programacion cuando comence programando con papel y lapiz en la universidad y en C jaja!! Fue un buen recorrido, aprender desde la programacion monolitica hasta llegar a la programacion POO. 
-##🌟🌟🌟🌟🌟🌟
+¡HOLAAA! Soy Luz, soy de Salta Capital, actualmente me encueuntro estudiando ingeniería en Software Comercial en JALA University, una universidad establecida en California-USA pero con sedes regionales en países de LATAM, esto con el fin de poder obtener un Bachelor Degree expedido por Estados Unidos, he sido seleccionada entre 400 personas de toda Argentina y estoy en la primera camada de argentinos beneficiarios de esta beca, en paralelo estoy llevando una tecnicatura de modalidad virtual tambien en Salta, la tecnicatura en Desarrollo de Software dictada en UPATECO una universidad provincial que busca dar una educacion teorica-practica para poder insertar en el mercado laboral a personas competentes con buenas herramientas de programacion. 
 
-> "Código legible y mantenible sobre código eficiente." - Robert C. Martin
+Tiempo antes de ingresar a esta carrera he estudiado en la Universidad Nacional de Salta, donde estudie los dos primeros años de la carrera de analisis de sistemas, en el ultimo año he realizado cursos y capacitaciones para poder ir entiendo el funcionamento del software, las buenas practicas, tambien he reforzado mis habilidades de comunicacion y el trabajo colaborativo.
+
+Todavia recuerdo mis primeros pasos en la programacion cuando comence programando con papel y lapiz en la universidad y en C jaja!! Fue un buen recorrido, aprender desde la programacion monolitica hasta llegar a la programacion POO. 
+                    🌟🌟🌟----🌟🌟🌟
+
+<div style="background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
+    <p style="font-size: 16px; color: #333; font-style: italic;">"La programación es como un arte, a veces debes dejar fluir tu creatividad para resolver problemas de manera elegante." - Luz Alcoba</p>
+</div>
 
 ## Tecnologías conocidas 🧑‍💻
 
