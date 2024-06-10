@@ -28,7 +28,7 @@ Todavia recuerdo mis primeros pasos en la programacion cuando comence programand
 
 ### Base de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MONGO DB](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MONGO DB](https://icons8.com/icon/bosfpvRzNOG8/mongo-db)
 
 
 ### Framework:
