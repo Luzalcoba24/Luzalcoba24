@@ -11,11 +11,9 @@
 Tiempo antes de ingresar a esta carrera he estudiado en la Universidad Nacional de Salta, donde estudie los dos primeros años de la carrera de analisis de sistemas, en el ultimo año he realizado cursos y capacitaciones para poder ir entiendo el funcionamento del software, las buenas practicas, tambien he reforzado mis habilidades de comunicacion y el trabajo colaborativo.
 
 Todavia recuerdo mis primeros pasos en la programacion cuando comence programando con papel y lapiz en la universidad y en C jaja!! Fue un buen recorrido, aprender desde la programacion monolitica hasta llegar a la programacion POO. 
-                    #🌟🌟🌟----🌟🌟🌟
+                    ###🌟🌟🌟----🌟🌟🌟
 
-<div style="background-color: #f2f2f2; padding: 10px; border-radius: 5px;">
-    <p style="font-size: 16px; color: #333; font-style: italic;">"La programación es como un arte, a veces debes dejar fluir tu creatividad para resolver problemas de manera elegante." - Luz Alcoba</p>
-</div>
+>"La programación es como un arte, a veces debes dejar fluir tu creatividad para resolver problemas de manera elegante." - Luz Alcoba
 
 ## Tecnologías conocidas 🧑‍💻
 
