@@ -11,9 +11,8 @@
 Tiempo antes de ingresar a esta carrera he estudiado en la Universidad Nacional de Salta, donde estudie los dos primeros años de la carrera de analisis de sistemas, en el ultimo año he realizado cursos y capacitaciones para poder ir entiendo el funcionamento del software, las buenas practicas, tambien he reforzado mis habilidades de comunicacion y el trabajo colaborativo.
 
 Todavia recuerdo mis primeros pasos en la programacion cuando comence programando con papel y lapiz en la universidad y en C jaja!! Fue un buen recorrido, aprender desde la programacion monolitica hasta llegar a la programacion POO. 
-##🌟
 
->"La programación es como un arte, a veces debes dejar fluir tu creatividad para resolver problemas de manera elegante." - Luz Alcoba
+>"Código legible y mantenible sobre código eficiente." - Robert C. Martin
 
 ## Tecnologías conocidas 🧑‍💻
 
@@ -21,7 +20,6 @@ Todavia recuerdo mis primeros pasos en la programacion cuando comence programand
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![ABAP](https://img.shields.io/badge/ABAP-5C2D91?style=for-the-badge&logo=sap&logoColor=white)
 
 ### Frontend:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,8 +28,8 @@ Todavia recuerdo mis primeros pasos en la programacion cuando comence programand
 
 ### Base de Datos:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MONGO DB](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
 
 ### Framework:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
