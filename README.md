@@ -12,7 +12,7 @@ Tiempo antes de ingresar a esta carrera he estudiado en la Universidad Nacional 
 
 Todavia recuerdo mis primeros pasos en la programacion cuando comence programando con papel y lapiz en la universidad y en C jaja!! Fue un buen recorrido, aprender desde la programacion monolitica hasta llegar a la programacion POO. 
 
-##> **"Código legible y mantenible sobre código eficiente." - Robert C. Martin**
+> **"Código legible y mantenible sobre código eficiente." - Robert C. Martin**
 
 ## Tecnologías conocidas 🧑‍💻
 
